@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "basics": {
+    "name": "DANNANA SANDEEP",
+    "label": "",
+    "picture": "",
+    "email": "dannanasandeep143@gmail.com",
+    "phone": "9182605114",
+    "degree": "Btech",
+    
+    "highlights": null,
+    "location": {
+      "address": "Dannanapeta,Amadalavalasa,Srikakulam,Andhra pradesh",
+      "postalCode": "532185",
+      "city": "Srikakulam",
+      "countryCode": "+91",
+      "region": "Hindu"
+    },
+
+  
+  "education": [
+    {
+      "institution": "Aditya Engineering College",
+      "area": "Kakinda",
+      "studyType": "Full Time",
+      "startDate": "01-08-2017",
+      "endDate": "31-07-2021",
+      "gpa": "7.71",
+      "courses": [
+        "Mechanicai Enguneering"
+      ],
+
+      "intermediate":"Sri satya sai jr college",
+      "location":"Srikakulam",
+      "from": "2015",
+      "to": "2017",
+      "marks":"965",
+      "group": [
+        "MPC"
+      ],
+
+      "School":"Ravindra Bharathi School",
+      "place":"Amadalavalasa",
+      "year":"2015",
+      "cgpa":"9.2"
+    }
+
+  ],
+  "Project": "EXPERIMENTAL ANALYSIS ON DIESEL ENGINE BY USING TERTIARY ETHYL BUTYL ETHER AS AN ALTENATIVE FUEL",
+  "duration":"6 months",
+
+  "cerifications":
+  {
+    "1": "DESIGN/CBT-SOLID EDGE-FOUNDATION",
+    "2": "AUTO CAD",
+    "3": "PRO KARTING CHAMPIONSHIP SEASON 3",
+    "4": "PRINCIPLES OF METAL FORMING TECHNOLOGY",
+    "5": "SCALE WORKSHOP",
+    "6": "UIF"
+    
+  }
+  
+  
+}
